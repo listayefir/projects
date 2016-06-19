@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <title>Sections</title>
+    @Styles.Render("~/CSS/sections.css")
+</head>
+<body>
+<div class="container">
+    <div class="buttons">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+               @{ Random rnd = new Random();
+                               int currentId = rnd.Next(6, 10);
+                           }
+               @Html.ActionLink("Ударение", "Stress", "Questions", new { id = currentId },
+                  new { @class = "btn btn-success btn-lg btn-block " })
+               
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <a type="button" class="btn btn-success btn-lg btn-block" href=@Html.ActionLink("Орфография", "Sections","Home")</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <a type="button" class="btn btn-success btn-lg btn-block" href=@Html.ActionLink("Пунктуация", "Sections","Home")</a>
+            </div>
+        </div>
+
+    </div><!--buttons-->
+</div><!--container-->
+
+</body>
+</html>

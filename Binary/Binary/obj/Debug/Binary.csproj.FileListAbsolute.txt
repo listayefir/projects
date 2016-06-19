@@ -1,0 +1,6 @@
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\bin\Debug\Binary.exe.config
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\obj\Debug\Binary.csprojResolveAssemblyReference.cache
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\bin\Debug\Binary.exe
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\bin\Debug\Binary.pdb
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\obj\Debug\Binary.exe
+c:\users\alice\documents\visual studio 2015\Projects\Binary\Binary\obj\Debug\Binary.pdb

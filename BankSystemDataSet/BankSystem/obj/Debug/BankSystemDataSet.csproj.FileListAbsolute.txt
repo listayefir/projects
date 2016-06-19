@@ -1,0 +1,11 @@
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystemDataSet.MainForm.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystemDataSet.NewCredit.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystemDataSet.NewDebitor.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystemDataSet.NewPayment.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystemDataSet.csproj.GenerateResource.Cache
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystemDataSet\BankSystem\obj\Debug\BankSystem.pdb

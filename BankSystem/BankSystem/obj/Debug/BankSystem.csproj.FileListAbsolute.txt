@@ -1,0 +1,12 @@
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.MainForm.resources
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+c:\users\alice\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.NewDebitor.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.NewCredit.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.NewPayment.resources
+C:\Users\Alice\Documents\Visual Studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache

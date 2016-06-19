@@ -1,0 +1,14 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Neucha&subset=cyrillic);
+body {
+  font-family: 'Neucha', cursive;
+  font-size:35px;
+}
+.question-box{
+  margin-top:100px;
+}
+.word{
+  text-transform:uppercase;
+}
+.answer{
+  font-size:35px;
+}
